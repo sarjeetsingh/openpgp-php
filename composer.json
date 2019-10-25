@@ -1,5 +1,5 @@
 {
-  "name": "singpolyma/openpgp-php",
+  "name": "sarjeetsingh/openpgp-php",
   "description": "Pure-PHP implementation of the OpenPGP Message Format (RFC 4880)",
   "license": "Unlicense",
   "authors": [
@@ -10,6 +10,11 @@
     {
       "name": "Stephen Paul Weber",
       "email": "singpolyma@singpolyma.net"
+    },
+    ,
+    {
+      "name": "Sarjeet Singh",
+      "email": "sarjeet.singh.virk@gmail.com"
     }
   ],
   "require": {
